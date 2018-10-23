@@ -5,3 +5,8 @@ Hello dear fiends, I am RAHUL, a Big Data and Data Science enthusiast. I created
 ### Something more about me;
 **Name:** RAHUL PANDA
 **Linked In:** https://www.linkedin.com/in/rahulpanda/
+
+#### R version used in this project ####
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin16.7.0 (64-bit)
